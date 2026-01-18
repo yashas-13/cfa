@@ -1,0 +1,7 @@
+{
+  "name": "Namaste-Hallo: German for Kannada & English Speakers",
+  "description": "A comprehensive German language learning platform specifically designed for Kannada and English speakers, featuring AI-powered lessons, pronunciation guides, and a bilingual tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
